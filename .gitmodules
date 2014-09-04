@@ -1,0 +1,3 @@
+[submodule "NISTPasswords/vendor/phpass"]
+	path = NISTPasswords/vendor/phpass
+	url = git@github.com:rchouinard/phpass.git
