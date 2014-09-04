@@ -7,6 +7,12 @@ and then enforce a minimum value.
 By default, new passwords will require a minimum entropy of 30, but this can be changed
 by setting ```min_password_entropy``` in your config.ini
 
+Installation
+------------
+
+Install and activate in the usual way, but if you're cloning the git repo make sure
+you ```git clone --recursive```
+
 Uses
 ----
  * PHPass <https://github.com/rchouinard/phpass> released under the MIT licence.
